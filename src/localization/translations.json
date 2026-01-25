@@ -1,0 +1,15 @@
+{
+  "navb1":{"en":"Home"              ,"zh":"首页"     },
+  "navb2":{"en":"Courses"           ,"zh":"课程"     },
+  "navb3":{"en":"Student Resources" ,"zh":"学生服务" },
+  "navb4":{"en":"About Us"          ,"zh":"关于我们" },
+
+  "appname":{"en":"Lighthouse Education"    ,"zh":"灯塔教育" },
+  "homesubt":{"en":"International language learning and exams", "zh":"国际化的语言、考试与辅导培训机构"},
+
+  "stdres":{"en":"Student Resources"    ,"zh":"学生服务" },
+  "courses":{"en":"Courses"    ,"zh":"课程" },
+
+  "about":{"en":"About us"    ,"zh":"关于我们" },
+  "aboutsubt":{"en":"Our teachers and their contact information",   "zh":"我们的师资力量与联系信息"}
+}

@@ -1,0 +1,66 @@
+
+.navul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    overflow:hidden; /* Prevents list items from going outside of the list */
+    background-color: #222222;
+    position:sticky;
+}
+
+.navli {
+    float: left;
+    border-right: 1px solid #bbbbbb;
+}
+
+.navlilswitch {
+    float: right;
+}
+
+.nava, .lswitch {
+    display:block;
+    color:aqua;
+    text-align: center;
+    text-decoration: none;
+    font-size: 122%;
+    padding: 18px 24px;
+}
+
+.navli :hover {
+    background-color: #444444;
+}
+
+.lswitch{
+    background-color: transparent; /* Makes the background fully transparent */
+    border: none;             /* Removes the default border */
+    cursor: pointer;          /* Keeps the hand cursor on hover */
+    padding: 0;               /* Optional: removes default padding */
+    outline: none;            /* Optional: removes the outline when the button is focused/clicked (use with caution for accessibility) */
+    float:right;
+}
+
+.cpane {
+    background-color: #333333;
+    height: 100vh;
+    width: 100vw;
+    padding:4px;
+}
+
+.cpane p {
+    color: aliceblue;
+}
+
+.cpane .titl, .cpane .stitl {
+    text-align: center;
+    color: snow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.cpane .titl {
+    font-size:6vw;
+}
+
+#logo{
+    height: 10%;
+    
+}
