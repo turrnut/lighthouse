@@ -1,11 +1,18 @@
 {
+  "placeholder":{"en":"PLACEHOLDER TEXT"              ,"zh":"占地方的文字"     },
+
+
   "navb1":{"en":"Home"              ,"zh":"首页"     },
   "navb2":{"en":"Courses"           ,"zh":"课程"     },
   "navb3":{"en":"Student Resources" ,"zh":"学生服务" },
   "navb4":{"en":"About Us"          ,"zh":"关于我们" },
 
   "appname":{"en":"Lighthouse Education"    ,"zh":"灯塔教育" },
-  "homesubt":{"en":"International language learning and exams", "zh":"国际化的语言、考试与辅导培训机构"},
+  "homesubt":{"en":"Global platform for language learning and exam preparation", "zh":"国际化的语言、考试与辅导培训服务"},
+  "hometxt1":{"en":"Founded in 2020, our mission is to provide world-class education in language learning, exam preparation, and tutoring for elementary and middle schoolers. Today, we have taught hundreds of students and continue to grow with the trust and support of our families.",
+              "zh":"成立于2020年，我们的使命是提供优质的语言培训、考试辅导以及中小学学科辅导。至今，我们已服务上百名学生，并在家长与学生的信任与支持下不断发展。"},
+  "homet":{"en":"title",
+              "zh":"标题"},
 
   "stdres":{"en":"Student Resources"    ,"zh":"学生服务" },
   "courses":{"en":"Courses"    ,"zh":"课程" },
