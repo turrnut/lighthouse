@@ -34,7 +34,6 @@
 
 .navli :hover {
     background-color: #444444;
-    font-size: 100%;
 }
 
 .lswitch{
@@ -75,7 +74,10 @@
 }
 
 .cpane .titl {
-    font-size:90px;
+    font-size:70px;
+}
+.cpane .stitl {
+    font-size:36px;
 }
 
 .cpane .t1{

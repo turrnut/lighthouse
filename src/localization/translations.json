@@ -1,5 +1,6 @@
 {
   "placeholder":{"en":"PLACEHOLDER TEXT"              ,"zh":"占地方的文字"     },
+  "email":{"en":"Email", "zh":"邮箱"},
 
 
   "navb1":{"en":"Home"              ,"zh":"首页"     },
@@ -18,5 +19,6 @@
   "courses":{"en":"Courses"    ,"zh":"课程" },
 
   "about":{"en":"About us"    ,"zh":"关于我们" },
-  "aboutsubt":{"en":"Our teachers and their contact information",   "zh":"我们的师资力量与联系信息"}
+  "aboutsubt":{"en":"Our teachers and their contact information",   "zh":"我们的师资力量与联系信息"},
+  "aboutt":{"en":"ContactUs",   "zh":"联系信息"}
 }

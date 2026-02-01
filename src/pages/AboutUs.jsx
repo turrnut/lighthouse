@@ -13,7 +13,8 @@ function AboutUs () {
                 <h1 class="titl">{t("about")}</h1>
                 <h2 class="stitl">{t("aboutsubt")}</h2>
 
-                <h1></h1>
+                <h1 class="t1"> {t("aboutt")}</h1>
+                <p> {t("email")}: <a href="mailto:turrnut@gmail.com">turrnut@gmail.com</a></p>
             </div>
         </>
     );
